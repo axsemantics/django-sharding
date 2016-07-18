@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.0.9 (WIP)
+------------------
+
+### Merge PR for using postgres auto id
+
 0.0.8 (Apr 20th 2016)
 ------------------
 
